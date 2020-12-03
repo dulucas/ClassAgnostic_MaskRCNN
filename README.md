@@ -1,4 +1,6 @@
-# ObjSeg_MaskRCNN
+# ClassAgnostic_MaskRCNN
+
+This is a repo for training class-agnostic Mask R-CNN. Code is based on [maskrcnn_benchmark](https://github.com/facebookresearch/maskrcnn-benchmark). We provide a class-agnostic Mask R-CNN pre-trained on COCO dataset. Details of training can be found [here](https://github.com/dulucas/ClassAgnostic_MaskRCNN/blob/main/configs/e2e_mask_rcnn_R_50_FPN_1x_agnostic.yaml).
 
 ## Installation
 
