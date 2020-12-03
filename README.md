@@ -22,3 +22,14 @@ vim e2e_mask_rcnn_R_50_FPN_1x_agnostic.yaml
 cd demo
 python demo.py
 ```
+
+## Citations
+```
+@misc{massa2018mrcnn,
+author = {Massa, Francisco and Girshick, Ross},
+title = {{maskrcnn-benchmark: Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch}},
+year = {2018},
+howpublished = {\url{https://github.com/facebookresearch/maskrcnn-benchmark}},
+note = {Accessed: [Insert date here]}
+}
+```
