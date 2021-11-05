@@ -8,7 +8,7 @@ Check [INSTALL.md](INSTALL.md) for installation instructions.
 
 
 ## How it works
-1. Download pre-trained model from https://drive.google.com/drive/folders/1ysQl5MtD3k4cLmk3AXCd34ELpxShmpMj?usp=sharing
+1. Download pre-trained model from https://1drv.ms/u/s!Ar4uxu1EELfHdIvVAVSbn_BXJcs?e=Jo4Jof
 2. Put the pre-trained model anywhere you want
 3. Modify the model path in the config file
 ```
